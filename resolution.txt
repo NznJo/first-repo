@@ -1,5 +1,4 @@
 LEARNING PATH
 - Web3
 - Security & Audit 
-- Fundamental Smart Contract
-- Fundamental Blockchain
+- Bounty
